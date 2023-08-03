@@ -51,8 +51,8 @@ function EditMember() {
                 <h1 className="">Edit member</h1>
             </div>
             <div className="max-w-2xl  mx-auto flex justify-center  flew-wrap-reverse box-border text-center items-center container ">
-                <div className="w-full h-full flex flex-col items-center justify-center   rounded-lg cursor-pointer" >
-                    <img src={member.img} className="w-60 h-60 rounded-full border-gray-700 shadow  border-collapse border-dashed object-cover cursor-pointer" />
+                <div className="w-full h-full flex flex-col items-center justify-center   rounded-lg" >
+                    <img src={member.img} className="w-60 h-60 rounded-full border-gray-700 shadow  border-collapse border-dashed object-cover " />
                 </div>
 
                 <div className="px-8  box-border h-max container w-1/2 ">

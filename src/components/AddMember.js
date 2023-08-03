@@ -101,7 +101,7 @@ const AddMember = () => {
           <input type="file" ref={ref} hidden onChange={changeImg} />
             <img src={img} className="w-40 h-40 rounded-full border-gray-700 shadow  border-collapse border-dashed object-cover cursor-pointer" />
           </form>
-          <h2 className="px-4 py-4 text-sm font-medium  dark:text-gray-200 whitespace-nowrap cursor-pointer text-blue-500 hover:text-blue-900">Upload Image</h2>
+          <h2 className="px-4 py-4 text-sm font-medium  dark:text-gray-200 whitespace-nowrap cursor-pointer text-blue-500 hover:text-blue-900"npù>Upload Image</h2>
         </div>
 
         <div className="px-8  box-border h-max container w-1/2 ">
