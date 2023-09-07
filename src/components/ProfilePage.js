@@ -92,7 +92,7 @@ const ProfilePage = () => {
     }, [id]);
 
     return (
-        <div className='flex-col bg-gray-100 pb-8 pt-1'>
+        <div className='flex-col bg-gray-100 pb-8 pt-1 h-screen'>
             <div className="flex justify-start mx-3 mt-50">
                 <FontAwesomeIcon icon={faArrowLeft} className='hover:cursor-pointer' onClick={() => { navigate('/'); }} />
             </div>
