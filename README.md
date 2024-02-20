@@ -1,6 +1,5 @@
 # ScrumFlowTrucker Frontend
-
-[Include a logo or an image related to your project if available]
+![scrumbg](https://github.com/Oussama-Aouina/scrum.app.ui/assets/92945284/15f2b330-02bb-4a44-bea6-9411a87463ce)
 
 ## Description
 
